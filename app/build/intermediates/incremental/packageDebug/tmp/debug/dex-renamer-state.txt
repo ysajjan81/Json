@@ -1,0 +1,4 @@
+#Sat Dec 21 15:25:52 MST 2019
+base.0=D\:\\Android Code\\CompleteAndroidDeveloperN\\Json\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
